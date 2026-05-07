@@ -97,3 +97,4 @@ Busco mi primera oportunidad como **desarrollador junior** (full stack, frontend
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancasano&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 </p>
+
