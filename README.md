@@ -91,10 +91,13 @@ Busco mi primera oportunidad como **desarrollador junior** (full stack, frontend
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juancasano&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancasano&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top Languages" />
-</p>
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juancasano&show_icons=true&theme=tokyonight&hide_border=true&v=1)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juancasano&layout=compact&theme=tokyonight&hide_border=true&v=1)
+
+</div>
 
