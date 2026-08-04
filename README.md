@@ -44,6 +44,7 @@ Tienda online completa que he desarrollado de principio a fin, en producción re
 ![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![AJAX](https://img.shields.io/badge/AJAX-0769AD?style=flat-square)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
 **Herramientas y despliegue**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -58,7 +59,7 @@ Tienda online completa que he desarrollado de principio a fin, en producción re
 
 - 🟢 **Front End Web Developer Nivel 4** (IFCD65) — *en curso, hasta julio 2026*
   Pime Coneixement · Consorci per a la Formació Contínua de Catalunya (240h)
-  Especialización en JavaScript ES6+, Vue.js y Git/GitHub.
+  Especialización en JavaScript ES6+, Vue.js, Angular y Git/GitHub.
 
 - ✅ **Certificado de Profesionalidad IFCD0110** — Confección y Publicación de Páginas Web
   SOC – Servei d'Ocupació de Catalunya (560h) · **Calificación: Excelente en todos los módulos**
