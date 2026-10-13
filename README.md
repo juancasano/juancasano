@@ -13,7 +13,7 @@
 
 ## 🚀 Proyecto destacado
 
-### 🛍️ [Camiglobo Barcelona](https://github.com/juancasano/proyecto) — E-commerce de camisetas personalizadas
+### 🛍️ [Camiglobo Barcelona](https://github.com/juancasano/camiglobo) — E-commerce de camisetas personalizadas
 
 Tienda online completa que he desarrollado de principio a fin, en producción real con clientes activos:
 
@@ -26,7 +26,7 @@ Tienda online completa que he desarrollado de principio a fin, en producción re
 - **Seguridad multicapa** (18 capas: anti-SQLi/CSRF/XSS, BCRYPT, rate limiting, reCAPTCHA, CSP, HSTS, GDPR)
 - **SEO técnico** completo (Sitemap XML, Schema.org, Search Console, Analytics)
 
-🔗 **[Ver en producción](https://camiglobo.com)** · **[Ver código](https://github.com/juancasano/proyecto)** · **[Documentación técnica](https://juancasano.github.io/documentacion-camiglobo.html)**
+🔗 **[Ver en producción](https://camiglobo.com)** · **[Ver código / arquitectura](https://github.com/juancasano/camiglobo)** · **[Documentación técnica](https://juancasano.github.io/documentacion-camiglobo.html)**
 
 ---
 
