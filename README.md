@@ -57,7 +57,10 @@ Tienda online completa que he desarrollado de principio a fin, en producción re
 
 ## 🎓 Formación
 
-- 🟢 **Front End Web Developer Nivel 4** (IFCD65) — *en curso, hasta julio 2026*
+- 🟢 **Serveis al núvol amb Amazon Web Services (AWS)** — *en curso, oct. – nov. 2026*
+  Fundació IDFO · Formació ocupacional · Teleformació (40h)
+
+- ✅ **Front End Web Developer Nivel 4** (IFCD65)
   Pime Coneixement · Consorci per a la Formació Contínua de Catalunya (240h)
   Especialización en JavaScript ES6+, Vue.js, Angular y Git/GitHub.
 
