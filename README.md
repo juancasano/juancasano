@@ -81,7 +81,7 @@ Hoy soy desarrollador full stack con **un proyecto real en producción**. Vengo 
 
 Busco mi primera oportunidad como **desarrollador junior** (full stack, frontend o backend) en **Barcelona o remoto**. Disponible para presencial, híbrido o teletrabajo.
 
-📩 **[juancasano83@gmail.com](mailto:juancasano83@gmail.com)** · 📞 663 658 421
+📩 **[juancasano83@gmail.com](mailto:juancasano83@gmail.com)**
 
 ---
 
