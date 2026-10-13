@@ -89,7 +89,7 @@ Busco mi primera oportunidad como **desarrollador junior** (full stack, frontend
 
 | Repo | Descripción |
 |------|-------------|
-| **[camiglobo](https://github.com/juancasano/camiglobo)** 🚀 | E-commerce Camiglobo en producción (PHP/MySQL/JavaScript) |
+| **[camiglobo](https://github.com/juancasano/camiglobo)** 🚀 | Reestructura MVC / demo de arquitectura del e-commerce (no es el deploy) |
 | **[juancasano.github.io](https://github.com/juancasano/juancasano.github.io)** 🌐 | Portafolio personal y CV descargable |
 | **[gatos](https://github.com/juancasano/gatos)** 🐱 | Ejercicio web ampliado: HTML5, Bootstrap, PWA, dark mode, lightbox |
 
