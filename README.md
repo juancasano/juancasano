@@ -60,9 +60,9 @@ Tienda online completa que he desarrollado de principio a fin, en producción re
 - 🟢 **Serveis al núvol amb Amazon Web Services (AWS)** — *en curso, oct. – nov. 2026*
   Fundació IDFO · Formació ocupacional · Teleformació (40h)
 
-- ✅ **Front End Web Developer Nivel 4** (IFCD65)
+- ✅ **Especialidad Front End Web Developer Nivel 4** (IFCD65)
   Pime Coneixement · Consorci per a la Formació Contínua de Catalunya (240h)
-  Especialización en JavaScript ES6+, Vue.js, Angular y Git/GitHub.
+  JavaScript ES6+, Vue.js, Angular y Git/GitHub.
 
 - ✅ **Certificado de Profesionalidad IFCD0110** — Confección y Publicación de Páginas Web
   SOC – Servei d'Ocupació de Catalunya (560h) · **Calificación: Excelente en todos los módulos**
