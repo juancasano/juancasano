@@ -57,7 +57,7 @@ Tienda online completa que he desarrollado de principio a fin, en producción re
 
 ## 🎓 Formación
 
-- 🟢 **Servicios en la nube con Amazon Web Services (AWS)** — *en curso, oct. – nov. 2026*
+- ✅ **Servicios en la nube con Amazon Web Services (AWS)** — oct. – nov. 2026
   Fundació IDFO · Informática Avanzada · Formación ocupacional (40h)
 
 - ✅ **Especialidad Front End Web Developer Nivel 4** (IFCD65)
